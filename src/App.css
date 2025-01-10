@@ -6,6 +6,12 @@
   font-family: Poppins, sans-serif;
 }
 
+.App h1 {
+    text-align: center; /* Centers the text horizontally */
+    margin: 20px 0; /* Optional: Adjust spacing around the heading */
+    color: brown;
+  }
+
 /* TitTap Editor Design */
 .ProseMirror {
   padding: 10px;
@@ -72,3 +78,36 @@
   margin: 2rem 0;
 }
 
+.textEditor {
+    border-radius: 5px;
+    border: 1px solid grey;
+  }
+  .menuBar {
+    padding-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .menuBar button {
+    font-size: 18px;
+    margin: 7px;
+    margin-right: 15px;
+    outline: none;
+    border: none;
+    background: none;
+    color: rgb(70, 70, 70);
+    cursor: pointer;
+  }
+  .menuBar button:last-child {
+    margin-right: 7px;
+  }
+  
+  .heading3 {
+    font-size: 15px;
+  }
+  
+  button.is_active {
+    background: rgb(197, 197, 197);
+    padding: 2px 3px;
+    border-radius: 2px;
+  }

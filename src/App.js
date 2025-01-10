@@ -8,6 +8,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Tip Tap Extension</h1>
       <Tiptap setDescription={setDescription} />
       <Details description={description} />
     </div>
