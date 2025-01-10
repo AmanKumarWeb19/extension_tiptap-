@@ -8,21 +8,21 @@ Check out the live version of the app here: https://extension-tiptap-co.vercel.a
 
 1. Rich Text Formatting:
 
-   . Bold
+   - Bold
 
-   . Italic
+   - Italic
 
-   . Underline
+   - Underline
 
-   . Strikethrough
+   - Strikethrough
 
-   . Headings (H2, H3)
+   - Headings (H2, H3)
 
-   . Ordered and unordered lists
+   - Ordered and unordered lists
 
-   . Blockquote
+   - Blockquote
 
-   . Undo/Redo functionality
+   - Undo/Redo functionality
 
 2. Customizable:
 
