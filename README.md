@@ -42,13 +42,17 @@ Check out the live version of the app here: https://extension-tiptap-co.vercel.a
 
 - Provides a toolbar with rich text formatting options.
 
-## app.css:
+## 2 . app.css:
 
 - Styles the editor and its components for an elegant UI.
 
-## package.json:
+## 3 . package.json:
 
 - Manages project dependencies and scripts.
+
+  br
+  hr
+  
 
 Technologies Used
 
