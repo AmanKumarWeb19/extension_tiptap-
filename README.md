@@ -54,90 +54,84 @@ Check out the live version of the app here: https://extension-tiptap-co.vercel.a
   hr
   
 
-Technologies Used
+## Technologies Used
 
-React: Frontend library for building user interfaces.
+- React: Frontend library for building user interfaces.
 
-Tiptap: Headless editor framework for custom text editing solutions.
+- Tiptap: Headless editor framework for custom text editing solutions.
 
-React Icons: Provides beautiful icons for the toolbar.
+- React Icons: Provides beautiful icons for the toolbar.
 
-CSS: Custom styling for UI components.
+- CSS: Custom styling for UI components.
 
-Installation & Setup
+## Installation & Setup
 
 Follow these steps to run the project locally:
 
-Clone the Repository
+## 1. Clone the Repository
 
-git clone https://github.com/your-repo/tiptap-editor-extension.git
-cd tiptap-editor-extension
+- git clone 
 
-Install Dependencies
+## 2 . Install Dependencies
 
-npm install
+- npm install
 
-Start the Development Server
+## 3 . Start the Development Server
 
-npm start
+- npm start
 
-Open your browser and navigate to http://localhost:3000.
+## 4 . Open your browser and navigate to http://localhost:3000.
 
-Code Overview
+## Code Overview
 
-tiptap.jsx
+## tiptap.jsx
 
-Integrates the Tiptap editor with React.
+I- ntegrates the Tiptap editor with React.
 
-Provides the MenuBar component for formatting options.
+- Provides the MenuBar component for formatting options.
 
-Updates the editor's content dynamically using onUpdate.
+- Updates the editor's content dynamically using onUpdate.
 
-app.css
+## app.css
 
-Customizes the editor's appearance with:
+- Customizes the editor's appearance with:
 
-Styling for headings, lists, and blockquotes.
+- Styling for headings, lists, and blockquotes.
 
-Focus styles for better accessibility.
+- Focus styles for better accessibility.
 
-package.json
+## package.json
 
-Dependencies include:
+- Dependencies include:
 
-@tiptap/react, @tiptap/starter-kit, and @tiptap/extension-underline for editor functionalities.
+- @tiptap/react, @tiptap/starter-kit, and @tiptap/extension-underline for editor functionalities.
 
-react-icons for toolbar icons.
+- react-icons for toolbar icons.
 
-Deployment
+## Deployment
 
-The app is deployed on Vercel for seamless hosting and scalability. Check it out: Tiptap Editor Extension
-
-Screenshots
-
-Editor in Action:
+The app is deployed on Vercel for seamless hosting and scalability. Check it out: https://extension-tiptap-co.vercel.app/
 
 
+## Contributing
 
-Contributing
+- We welcome contributions! Feel free to fork the repository and submit a pull request.
 
-We welcome contributions! Feel free to fork the repository and submit a pull request.
+1. Fork the repository.
 
-Fork the repository.
+2. Create a new branch (feature/new-feature).
 
-Create a new branch (feature/new-feature).
+3. Commit your changes.
 
-Commit your changes.
+4. Push to the branch.
 
-Push to the branch.
+5. Open a pull request.
 
-Open a pull request.
+## License
 
-License
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
+## Acknowledgements
 
 Tiptap Documentation for the amazing editor framework.
 
@@ -145,3 +139,4 @@ React Icons for providing beautiful icons.
 
 Vercel for hosting.
 
+## Feel free to reach out for any queries or feedback. Let's build something awesome together! 🚀
