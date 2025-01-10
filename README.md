@@ -8,47 +8,47 @@ Check out the live version of the app here: https://extension-tiptap-co.vercel.a
 
 1. Rich Text Formatting:
 
-. Bold
+   . Bold
 
-. Italic
+   . Italic
 
-. Underline
+   . Underline
 
-. Strikethrough
+   . Strikethrough
 
-. Headings (H2, H3)
+   . Headings (H2, H3)
 
-. Ordered and unordered lists
+   . Ordered and unordered lists
 
-. Blockquote
+   . Blockquote
 
-. Undo/Redo functionality
+   . Undo/Redo functionality
 
-Customizable:
+2. Customizable:
 
-Built with Tiptap, enabling easy extension and customization.
+    - Built with Tiptap, enabling easy extension and customization.
 
-Responsive Design:
+3. Responsive Design:
 
-Mobile and desktop-friendly with an intuitive UI.
+    - Mobile and desktop-friendly with an intuitive UI.
 
-Project Structure
+## Project Structure
 
-Core Files:
+## Core Files:
 
-tiptap.jsx:
+## 1 . tiptap.jsx:
 
-Implements the editor functionality using Tiptap.
+- Implements the editor functionality using Tiptap.
 
-Provides a toolbar with rich text formatting options.
+- Provides a toolbar with rich text formatting options.
 
-app.css:
+## app.css:
 
-Styles the editor and its components for an elegant UI.
+- Styles the editor and its components for an elegant UI.
 
-package.json:
+## package.json:
 
-Manages project dependencies and scripts.
+- Manages project dependencies and scripts.
 
 Technologies Used
 
